@@ -1,0 +1,54 @@
+git init  ..... iniciar repositorio
+git status ..... status del repositorio
+
+git add ...... agregar archivos wildcards
+
+git add <nombre del archivo> ... ruta completa
+
+git add . ----- subes todo
+
+git help ........ ayuda
+
+git commit -m "nombre o descripcion del commit" sin la m abre un editor
+
+git config --global --list ....... configuracion global
+
+git config --list ........
+
+git congig --global user.name=""
+
+git congig --global user.email=""
+
+git remote add origin ++++  +ruta
+
+git remote --verbose
+
+git push ..........enviar la iformacion al branch   (git origin master)
+
+git fetch
+
+git pull
+
+git merge
+
+git branch
+
+git checkout ..... es para moverme 
+
+
+1. modificar panel de control
+2. hacer carpeta de desktop
+3. iniciar git console
+4. bajar codigo de git
+5. crear works pace de eclipse
+6. trabajar en codigo
+7. subir codigo
+
+
+
+udemi
+
+
+
+
+
